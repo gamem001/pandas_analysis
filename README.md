@@ -1,6 +1,6 @@
-## Heroes of Pymoli
+## Game Data Breakdown
 
-This project will analyze the data for a fictional, fantasy game Heroes of Pymoli.
+This project will analyze the data for a fictional, fantasy game "Heroes of Pymoli".
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. Pandas will be used to generate a report that breaks down the game's purchasing data into meaningful insights.
 
